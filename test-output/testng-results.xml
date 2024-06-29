@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T10:06:32 IST" name="Default suite" finished-at="2024-05-30T10:06:43 IST" duration-ms="11516">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T10:06:32 IST" name="Default test" finished-at="2024-05-30T10:06:43 IST" duration-ms="11516">
+      <class name="ss1.New">
+        <test-method is-config="true" signature="test()[pri:0, instance:ss1.New@750e2b97]" started-at="2024-05-30T10:06:32 IST" name="test" finished-at="2024-05-30T10:06:43 IST" duration-ms="11448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test1()[pri:0, instance:ss1.New@750e2b97]" started-at="2024-05-30T10:06:43 IST" name="test1" finished-at="2024-05-30T10:06:43 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- ss1.New -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
